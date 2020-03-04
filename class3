@@ -1,0 +1,10 @@
+class sample:
+    name=input("enter name")
+    age=input("entr age")
+    roll=input("enter roll")
+    
+
+obj=sample()
+print(obj.name)
+print(obj.age)
+print(obj.roll)
