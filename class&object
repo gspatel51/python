@@ -1,0 +1,14 @@
+class sample:
+    def getvalue(self,name,age,city):
+     self.name="bob"
+     self.age=20
+     self.city="indore"
+
+
+    
+    def show(self):
+     print(self.name,self.age,self.city)
+
+obj=sample()
+obj.getvalue("robin",35,"bhopalo")
+obj.show()
