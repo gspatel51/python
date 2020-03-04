@@ -1,0 +1,9 @@
+class sample:
+    name="hello"
+    age=20
+    roll=14
+
+obj=sample()
+print(obj.name)
+print(obj.age)
+print(obj.roll)
